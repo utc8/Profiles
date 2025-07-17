@@ -1,9 +1,15 @@
-# > HBO USA
+# > HBO-USA
 USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,cinemax.com
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,h264.io
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
 PROCESS-NAME,com.hbo.hbonow
